@@ -4,7 +4,7 @@
 
 Submitted by: **Heriberto Gonzalez**
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
