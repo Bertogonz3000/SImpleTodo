@@ -9,7 +9,7 @@ import android.widget.EditText;
 import static com.bertogonz3000.simpletodo.MainActivity.ITEM_POSITION;
 import static com.bertogonz3000.simpletodo.MainActivity.ITEM_TEXT;
 
-public class EditItemActivity extends AppCompatActivity {
+public class  EditItemActivity extends AppCompatActivity {
 
     //Track edit Text
     EditText etItemText;
